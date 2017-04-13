@@ -13,7 +13,7 @@
     "multer": "*",
     "ottoman": "git+https://github.com/couchbaselabs/node-ottoman.git",
     "prebuild": "^6.1.0"
-  }
+  },
   "scripts": {
     "start": "node app.js"
 }
